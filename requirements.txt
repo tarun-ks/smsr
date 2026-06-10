@@ -1,0 +1,6 @@
+anthropic>=0.40
+numpy
+faiss-cpu
+sentence-transformers
+matplotlib
+python-dotenv

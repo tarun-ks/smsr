@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+
+# Caches and logs
+.judge_cache.json
+*.log
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.out

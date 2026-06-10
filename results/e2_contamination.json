@@ -1,0 +1,61 @@
+{
+  "n_trials": 300000,
+  "k": 5,
+  "max_abs_dev": 0.0005587878787879363,
+  "rows": [
+    {
+      "store": "eval",
+      "m": 11,
+      "t": 1,
+      "n_runs": 5,
+      "empirical_contam": 0.45398666666666665,
+      "theoretical": 0.4545454545454546,
+      "abs_dev": 0.0005587878787879363
+    },
+    {
+      "store": "eval",
+      "m": 12,
+      "t": 2,
+      "n_runs": 5,
+      "empirical_contam": 0.6816206666666667,
+      "theoretical": 0.6818181818181819,
+      "abs_dev": 0.00019751515151522625
+    },
+    {
+      "store": "eval",
+      "m": 13,
+      "t": 3,
+      "n_runs": 5,
+      "empirical_contam": 0.8040386666666667,
+      "theoretical": 0.8041958041958042,
+      "abs_dev": 0.00015713752913748547
+    },
+    {
+      "store": "tier1",
+      "m": 20,
+      "t": 1,
+      "n_runs": 5,
+      "empirical_contam": 0.25022666666666665,
+      "theoretical": 0.25,
+      "abs_dev": 0.0002266666666666528
+    },
+    {
+      "store": "tier1",
+      "m": 20,
+      "t": 2,
+      "n_runs": 5,
+      "empirical_contam": 0.446834,
+      "theoretical": 0.4473684210526315,
+      "abs_dev": 0.0005344210526315174
+    },
+    {
+      "store": "tier1",
+      "m": 20,
+      "t": 3,
+      "n_runs": 5,
+      "empirical_contam": 0.6009126666666667,
+      "theoretical": 0.6008771929824561,
+      "abs_dev": 3.5473684210529655e-05
+    }
+  ]
+}

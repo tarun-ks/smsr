@@ -1,0 +1,12 @@
+{
+  "sonnet_auth_c1c2": {
+    "asr": 0.08,
+    "ci_lo": 0.058343328484104486,
+    "ci_hi": 0.10876695845301193,
+    "n": 450
+  },
+  "haiku_reference_asr": 0.368,
+  "diff_from_haiku": 0.288,
+  "consistent_with_haiku": false,
+  "preregistered_interpretation": "requires mechanism explanation"
+}

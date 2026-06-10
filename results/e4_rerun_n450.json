@@ -1,0 +1,18 @@
+{
+  "amemguard_n450_20seed": {
+    "asr": 0.03777777777777778,
+    "ci_lo": 0.023718049433993305,
+    "ci_hi": 0.05966258380897077,
+    "n": 450
+  },
+  "smsr_tier1_reference": {
+    "asr": 0.08,
+    "ci_lo": 0.058343328484104486,
+    "ci_hi": 0.10876695845301193,
+    "n": 450
+  },
+  "validation_asr": 0.0,
+  "validation_pass": true,
+  "cis_separate": false,
+  "preregistered_claim": "Comparable at t=1"
+}

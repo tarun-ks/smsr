@@ -1,0 +1,15 @@
+{
+  "n": 84,
+  "kappa": 0.9554140127388534,
+  "agreement": 0.9761904761904762,
+  "haiku_distribution": {
+    "neither": 40,
+    "malicious": 40,
+    "correct": 4
+  },
+  "sonnet_distribution": {
+    "neither": 42,
+    "malicious": 40,
+    "correct": 2
+  }
+}
